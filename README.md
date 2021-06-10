@@ -1,2 +1,4 @@
-# xiaobu
-三等奖code
+# xiaobu code(Third prize)
+
+运行：
+sh run.sh

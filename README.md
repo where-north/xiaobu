@@ -1,5 +1,4 @@
 # xiaobu-text-match 
-# 全国三等奖方案分享&&机器学习期末作业
 
 天池比赛链接：https://tianchi.aliyun.com/competition/entrance/531851/rankingList
 

@@ -14,7 +14,7 @@ nezha-cn-base：https://huggingface.co/miaomiaomiao/nezha_miao
 
 md5: 9f278f0eabae2b2ff4e165aa91c4a215
 
-roberta-cn-wwm: https://github.com/ymcui/Chinese-BERT-wwm
+bert-cn-wwm: https://github.com/ymcui/Chinese-BERT-wwm
 
 md5: b78f52ff01c9c439418a07dc0ab79784
 
